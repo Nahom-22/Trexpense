@@ -1,0 +1,27 @@
+.expenses-container{
+    margin-top: 15px;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+
+.expenses-content{
+    width: 800px;
+    border: none;
+    border-radius: 12px;
+    box-sizing: border-box;
+    box-shadow: 1px 1.3px 1px 1.3px grey;
+    min-height: fit-content;
+}
+
+.expenses-list{
+    width: 80%;
+    padding-top: 70px;
+    list-style: none;
+}
+
+
+.expenses-top{
+    float: right;
+    margin-top: 30px;
+}

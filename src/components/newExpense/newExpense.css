@@ -1,0 +1,12 @@
+.add-expense-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.add-btn-expense{
+    width: 300px;
+    margin-top:5px ;
+}
